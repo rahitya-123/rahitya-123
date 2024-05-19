@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi👋, I am Rahitya Velpuri!
 
 <!--
 **rahitya-123/rahitya-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
