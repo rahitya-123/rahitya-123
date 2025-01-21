@@ -13,7 +13,7 @@ I'm a Data Analyst with a passion for analysing the data, Generative AI. Welcome
 
 - **Languages:** Python,R
 - **Databases:** MSSQL Server,Oracle,Snowflake
-- **Tools:** Informatica Power Center,GIT,Power BI,Tableau,MSSQL Server
+- **Tools:** Informatica Power Center,GIT,Power BI,MSSQL Server
 
 ## Projects
 
