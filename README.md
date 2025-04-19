@@ -5,15 +5,15 @@ I'm a Data Analyst with a passion for analysing the data, Generative AI. Welcome
 ## About Me
 
 - 🔭 I’m currently pursuing masters in Analytics from Northeastern Unniveristy.
-- 🌱 I’m currently learning building RAG based LLMs using streamlit and snowflake Cortex Search.
+- 🌱 I’m currently learning  Tree - Based Machine Learning algorithms (Decision Tree, Random Forest, Logistic Regression).
 - 👯 I’m looking to collaborate on AI projects.
 - 📫 How to reach me: velpuri.r@northeastern.edu.
 
 ## Technologies & Tools
 
-- **Languages:** Python,R
-- **Databases:** MSSQL Server,Oracle,Snowflake
-- **Tools:** Informatica Power Center,GIT,Power BI,MSSQL Server
+- **Languages:** Python,R, Scala, HBase, Pyspark, HQL
+- **Databases:** MSSQL Server, Oracle, Snowflake
+- **Tools:** AWS, Informatica Power Center, GIT, Power BI, MSSQL Server
 
 ## Projects
 
