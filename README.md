@@ -20,7 +20,7 @@ I'm a Data Analyst with a passion for analysing the data, Generative AI. Welcome
 Here are a few of my notable projects:
 
 1. **100-pandas-puzzles(https://github.com/rahitya-123/100-pandas-puzzles)**
-2. **Machine-Learning-Models(https://github.com/rahitya-123/Machine-Learning-Models)**
+2. **Machine-Learning-Algorithms(https://github.com/rahitya-123/Machine-Learning-Algorithms)**
 3. **snowPark-Project(https://github.com/rahitya-123/SnowPark-Project)**
 4. **SQL-50-challenges(https://github.com/rahitya-123/SQL-50-challenges)** 
 
