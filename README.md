@@ -19,10 +19,11 @@ I'm a Data Analyst with a passion for analysing the data, Generative AI. Welcome
 
 Here are a few of my notable projects:
 
-1. **100-pandas-puzzles(https://github.com/rahitya-123/100-pandas-puzzles)**
-2. **Machine-Learning-Algorithms(https://github.com/rahitya-123/Machine-Learning-Algorithms)**
-3. **snowPark-Project(https://github.com/rahitya-123/SnowPark-Project)**
-4. **SQL-50-challenges(https://github.com/rahitya-123/SQL-50-challenges)** 
+1. **Defaults-of-Credit-Card-Prediction-using-SVM(https://github.com/rahitya-123/Defaults-of-Credit-Card-Prediction-using-SVM)**
+2. **100-pandas-puzzles(https://github.com/rahitya-123/100-pandas-puzzles)**
+3. **Machine-Learning-Algorithms(https://github.com/rahitya-123/Machine-Learning-Algorithms)**
+4. **snowPark-Project(https://github.com/rahitya-123/SnowPark-Project)**
+5. **SQL-50-challenges(https://github.com/rahitya-123/SQL-50-challenges)** 
 
 Feel free to explore my repositories to see more of my work!
 
